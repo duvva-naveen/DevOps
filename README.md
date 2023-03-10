@@ -1,2 +1,2 @@
 # DevOps
-This repository is for DevOps labaratoty 3-2 SEM
+This repository is for DevOps labaratory 3-2 SEM
